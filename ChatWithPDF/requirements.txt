@@ -1,0 +1,10 @@
+langchain 
+langchain-community
+PyPDF2 
+streamlit 
+openai 
+faiss-cpu
+tiktoken
+requests>=2.31.0
+urllib3>=2.0.0
+pyOpenSSL
